@@ -1,0 +1,20 @@
+{
+  "KR_ISP": [
+    {
+      "domain": "www.korea.ac.kr",
+      "type": "A",
+      "value": [
+        "163.152.6.10"
+      ]
+    }
+  ],
+  "US_GOOGLE": [
+    {
+      "domain": "www.korea.ac.kr",
+      "type": "A",
+      "value": [
+        "163.152.6.10"
+      ]
+    }
+  ]
+}
